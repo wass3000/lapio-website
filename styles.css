@@ -1,0 +1,30 @@
+.container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  position: relative;
+  left: 250px;
+  bottom: 115px;
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  left: 500px;
+  bottom: 230px;
+}
+
